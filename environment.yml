@@ -1,0 +1,12 @@
+name: geotopo
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - pandas
+  - cartopy
+  - xarray
+  - conda-forge::palettable
+  - conda-forge::pygmt
+  - conda-forge::geographiclib
+  - conda-forge::pyshtools
